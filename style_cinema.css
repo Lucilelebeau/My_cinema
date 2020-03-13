@@ -1,0 +1,159 @@
+body{
+    background-image: url(cine.jpg);
+}
+h1{
+    color: white;
+    margin: 40px;
+    text-align: center;
+}
+li{
+    font-size: 20px;
+    color: rgb(190, 212, 253);
+}
+a{
+    text-decoration: none;
+}
+h2{
+    font-size: 20px;
+    text-align: center;
+}
+.forms{
+    border: solid 1px white;
+    background-color: beige;
+    padding: 40px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 15px;
+    margin-bottom: 50px;
+    margin-left: 8%;
+    display: inline-table;
+}
+.rep_forms{
+    border: solid 1px white;
+    background-color: beige;
+    padding: 40px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 15px;
+    text-align: center;
+}
+input{
+    margin-left: 15px;
+}
+.inputModifier{
+    width: 300px;
+}
+table{
+    border-collapse: collapse;
+    text-align: left;
+}
+td{
+    border: 1px solid black;
+    padding: 10px;
+}
+.td_histo_checkbox{
+    border:none;
+}
+th{
+    border: 1px solid black;
+    padding: 10px;
+}
+.forms1{
+    border: solid 1px white;
+    background-color: beige;
+    padding: 60px;
+    padding-top: 40px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    margin-left: 40%;
+    display: inline-block;
+}
+.rep_forms1{
+    border: solid 1px white;
+    background-color: beige;
+    padding: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 15px;
+    text-align: center;
+}
+.ajouterMembre{
+    text-align: center;
+    background-color: rgb(190, 212, 253) ;
+    padding: 20px;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 40px;
+    margin-top: 15px;
+    font-size:20px;
+}
+.ajouter{
+    text-align: center;
+    background-color: rgb(190, 212, 253) ;
+    padding: 20px;
+    border-radius: 30px;
+    margin-left: 20%;
+    margin-top: 35px;
+    font-size:20px;
+}
+.chercher{
+    text-align: center;
+    background-color: rgb(190, 212, 253) ;
+    padding: 20px;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-top: 25px;
+    font-size:20px;
+}
+.ajouter_new_membre{
+    text-align: center;
+    background-color: rgb(190, 212, 253) ;
+    padding: 20px;
+    border-radius: 30px;
+    margin-left: 30%;
+    margin-top: 35px;
+    font-size:20px;
+}
+.retour{
+    text-align: center;
+    background-color: rgb(190, 212, 253) ;
+    padding: 20px;
+    border-radius: 30px;
+    margin-top: 35px;
+    margin-left: 15px;
+    font-size:20px;
+}
+.retour_new{
+    text-align: center;
+    background-color: rgb(190, 212, 253) ;
+    padding: 20px;
+    border-radius: 30px;
+    margin-left: 90px;
+    margin-top: 25px;
+    font-size:20px;
+}
+.enregistrer{
+    text-align: center;
+    background-color: rgb(190, 212, 253) ;
+    padding: 20px;
+    border-radius: 30px;
+    margin-left: 10%;
+    margin-top: 35px;
+    font-size:20px;
+}
+.suppr{
+    text-align: center;
+    background-color: rgb(252, 194, 184) ;
+    padding: 20px;
+    border-radius: 30px;
+    margin-top: 35px;
+    font-size:20px;
+}
+.confirm_supp{
+    text-align: center;
+    background-color: rgb(190, 212, 253) ;
+    padding: 20px;
+    border-radius: 30px;
+    margin-top: 35px;
+    font-size:20px;
+}
