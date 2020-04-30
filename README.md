@@ -1,5 +1,5 @@
 # My_cinema
-Interagir avec une BDD MySQL
+1er projet réalisé pour découvrir et interagir avec une BDD MySQL données (2 semaines)
 
 *Web@cadémie Epitech Marseille*
 
